@@ -55,3 +55,5 @@ Community contributions welcome :)
 * [String methods](js/string-methods.js)
 * [Styling](js/styling.js)
 * [this keyword](js/this-keyword.js)
+
+This is required for any javascript developer
